@@ -24,13 +24,19 @@ $\color{942D38}\normalsize{\texttt{he / they , any EXCEPT it / its}}$ <br>
 
 <p align="center">
   $\color{942D38}\normalsize{\texttt{・・・・・・・・・・・・・・・・・・・・}}$ <br>
+
+  </p>
   
+  <p align="center">
   $\color{879D48}\normalsize{\texttt{" hey ! are you deaf or what ? "}}$ <br>
   $\color{879D48}\normalsize{\texttt{" no wonder we can’t understand each other ! "}}$ <br>
   $\color{924F3D}\normalsize{\texttt{" what was that ? did you finally agree to love me ? "}}$ <br>
   $\color{879D48}\normalsize{\texttt{" what ? ! love what ? are you deaf or what ! ? "}}$ <br>
 $\color{924F3D}\normalsize{\texttt{" hm ? deaf ? i told you i’m not deaf . . "}}$ <br>
 
+</p>
+
+<p align="center">
 $\color{942D38}\normalsize{\texttt{・・・・・・・・・・・・・・・・・・・・}}$ <br>
 
 </p>
