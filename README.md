@@ -17,5 +17,9 @@ $\color{942D38}\normalsize{\texttt{he / they , any EXCEPT it / its}}$ <br>
 
 </p>
 
+<h6 align="center">𓊆 <a href="https://khomedy.atabook.org/">atabook</a> ◞ <a href="https://akiranishiki.straw.page/">straw</a> ◞ <a href="https://fluffle.cc/dragonofdojima">fluffle.cc</a> ◞ <a href="https://pronouns.cc/@meas">prns.cc</a> 𓊇
+
+</div>
+
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_5140.png"style="width: auto; height: auto;" />
