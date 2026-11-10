@@ -23,7 +23,7 @@ $\color{942D38}\normalsize{\texttt{he / they , any EXCEPT it / its}}$ <br>
 
 
 <p align="center">
-$\color{924F3D}\normalsize{\texttt{" hm? i said ‘blind’ , not ‘blind’ . . "}}$ <br>
+$\color{924F3D}\normalsize{\texttt{" hm? i said ‘blind’ , not ‘deaf’ . . "}}$ <br>
 
 </p>
 
