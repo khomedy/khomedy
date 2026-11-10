@@ -21,5 +21,11 @@ $\color{942D38}\normalsize{\texttt{he / they , any EXCEPT it / its}}$ <br>
 
 </div>
 
+
+<p align="center">
+$\color{924F3D}\normalsize{\texttt{" hm? i said ‘blind’ , not ‘blind’ . . "}}$ <br>
+
+</p>
+
 <p align="center">
   <img src="https://file.garden/an64hms_LR8WfCYE/IMG_5140.png"style="width: auto; height: auto;" />
