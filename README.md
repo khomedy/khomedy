@@ -41,7 +41,7 @@ $\color{942D38}\normalsize{\texttt{・・・・・・・・・・・・・・・
 
 </p>
 
-<img width="420" height="243" alt="IMG_5153" src="https://github.com/user-attachments/assets/a3b21724-b332-4795-96c3-934645b1d79a" />
+<img width="210" height="123" alt="IMG_5153" src="https://github.com/user-attachments/assets/a3b21724-b332-4795-96c3-934645b1d79a" />
 
 
 <p align="center">
